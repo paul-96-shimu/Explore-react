@@ -1,6 +1,6 @@
 import React from 'react';
 
-const HookForom = () => {
+const ProductTable = () => {
     return (
         <div>
 
@@ -8,4 +8,4 @@ const HookForom = () => {
     );
 };
 
-export default HookForom;
+export default ProductTable;
